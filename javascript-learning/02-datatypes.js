@@ -51,6 +51,10 @@ console.log("First Skill: ", student.skills[0])
 console.log("City: ", student.address.city)
 
 
+
+
+// Reference test
+
 let person1 = {
     name: "Arjun"
 };
